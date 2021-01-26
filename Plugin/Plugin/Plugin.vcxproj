@@ -153,6 +153,7 @@
     <ClCompile Include="..\sources\mytree.cpp" />
     <ClCompile Include="..\sources\wxPlugin.cpp" />
     <ClCompile Include="..\sources\wxPluginInit.cpp" />
+    <ClCompile Include="gexiao.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
